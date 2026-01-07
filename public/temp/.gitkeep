@@ -1,0 +1,2 @@
+//This file is used only to keep empty folders.
+// #As we know that git tracks files only. And initially we want folders which are empty . So .gitkeep helps in keeping these folders
